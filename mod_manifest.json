@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-05T08:51:23Z",
+  "generated": "2026-11-05T09:41:24Z",
   "base_url": "https://github.com/anter113/arab-scum-dark-mods/releases/download/mods",
   "items": [
     {
@@ -20,8 +20,8 @@
     },
     {
       "path": "zzAbo_AdamRACE.pak",
-      "size": 56545499,
-      "sha": "f6ad3745ab938bd687fc580acd70f5e13293089624dcd64693505b79fbbeb0c5"
+      "size": 56544990,
+      "sha": "21893b2c16b656830d8504dfdb43f62941cf7c5f517b339d3e1e6cdb916fc918"
     }
   ]
 }
