@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-05T14:07:46Z",
+  "generated": "2026-11-05T14:09:17Z",
   "base_url": "https://github.com/anter113/arab-scum-dark-mods/releases/download/mods",
   "items": [
     {
@@ -15,8 +15,8 @@
     },
     {
       "path": "AboAdam_horse.pak",
-      "size": 20602995,
-      "sha": "f717c2970dd786027f2905141aea9d0a78d6b3a02ef60e1d841c39577c5cf46c"
+      "size": 20602987,
+      "sha": "e352ecca9ad492ba2fb35708b1e270ff5ef0c78a47e03b73d874fd46fbc4c3f9"
     },
     {
       "path": "AboAdam_StarterPack.pak",
