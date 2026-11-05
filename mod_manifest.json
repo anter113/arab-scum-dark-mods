@@ -1,27 +1,22 @@
 {
   "schema": 1,
-  "generated": "2026-11-05T14:09:17Z",
+  "generated": "2026-11-05T14:31:45Z",
   "base_url": "https://github.com/anter113/arab-scum-dark-mods/releases/download/mods",
   "items": [
-    {
-      "path": "Abo_AdamRACE.pak",
-      "size": 56533360,
-      "sha": "54dbd71769021389b52017bdf27f49491700b2fd4ffcd1f973dc4648256a133d"
-    },
     {
       "path": "AboAdam_GTR34_Full.pak",
       "size": 14465555,
       "sha": "25ae81351dc69ff89238fa5c46ff3481933559d9bf7fdad9ad62e7fa98703ea8"
     },
     {
-      "path": "AboAdam_horse.pak",
-      "size": 20602987,
-      "sha": "e352ecca9ad492ba2fb35708b1e270ff5ef0c78a47e03b73d874fd46fbc4c3f9"
-    },
-    {
       "path": "AboAdam_StarterPack.pak",
       "size": 56703,
       "sha": "7c23bdf33a79683527cf93550bb7383ea69964ff0960b4eeddf7a9adbe569656"
+    },
+    {
+      "path": "Abo_AdamRACE.pak",
+      "size": 56533360,
+      "sha": "54dbd71769021389b52017bdf27f49491700b2fd4ffcd1f973dc4648256a133d"
     }
   ]
 }
