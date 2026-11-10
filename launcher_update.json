@@ -1,7 +1,7 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "url": "https://github.com/anter113/arab-scum-dark-mods/releases/download/mods/ArabScumDark.exe",
-  "size": 51487849,
-  "sha256": "7179777ba45384a80454a25f5a38fcb86e8754334c456c0fb28da33aa647a455",
-  "notes": "Update Launcher button (self-update), Skyline auto-righting pak"
+  "size": 51490567,
+  "sha256": "979937431840185a92f6dc7b77aa525f893c1266bc8e7e7c1df891be44961078",
+  "notes": "Launcher fully closes after launch; detached mod cleanup helper"
 }
