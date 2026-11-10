@@ -1,7 +1,7 @@
 {
   "version": "0.2.3",
   "url": "https://github.com/anter113/arab-scum-dark-mods/releases/download/mods/ArabScumDark.exe",
-  "size": 51490567,
-  "sha256": "979937431840185a92f6dc7b77aa525f893c1266bc8e7e7c1df891be44961078",
-  "notes": "Launcher fully closes after launch; detached mod cleanup helper"
+  "size": 51491079,
+  "sha256": "babbb6e1339c761fd0e78f347fcc74914fc23bc575c35647537095e5d622bcc9",
+  "notes": "Launcher fully closes after launch; version resource; no UPX"
 }
