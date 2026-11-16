@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generated": "2026-11-10T04:25:04Z",
+  "generated": "2026-11-16T11:48:47Z",
   "base_url": "https://github.com/anter113/arab-scum-dark-mods/releases/download/mods",
   "items": [
     {
-      "path": "ArabDarkScumMods_Server.pak",
-      "size": 96887832,
-      "sha": "9799a7be49095621c94172816b0144545aa5113679d35d8c6434d55fefa7ab7f"
+      "path": "ArabDarkScumMod.pak",
+      "size": 96931232,
+      "sha": "a4c1e708f7236c3357d29895b84861fe705b1c77e54371d12cc86f37514119c7"
     }
   ]
 }
