@@ -1,12 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-11-16T11:48:47Z",
+  "generated": "2026-11-16T12:37:03Z",
   "base_url": "https://github.com/anter113/arab-scum-dark-mods/releases/download/mods",
   "items": [
     {
       "path": "ArabDarkScumMod.pak",
       "size": 96931232,
       "sha": "a4c1e708f7236c3357d29895b84861fe705b1c77e54371d12cc86f37514119c7"
+    },
+    {
+      "path": "Z4Bridge.pak",
+      "size": 9015460,
+      "sha": "b1b25ef6cc38d5934187acc2b139fb8075d7696da5809a06c4772af280be5bb3"
     }
   ]
 }
