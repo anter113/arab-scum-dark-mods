@@ -1,7 +1,7 @@
 {
-  "version": "0.2.5",
+  "version": "0.2.6",
   "url": "https://github.com/anter113/arab-scum-dark-mods/releases/download/mods/ArabScumDark.exe",
-  "size": 46289249,
-  "sha256": "d8023946d565612cd46a59fcfe36e812c83d902878d81cf8f8ecb9e560e3d834",
-  "notes": "Fixed the 'Failed to remove temporary directory' warning on game start. Launcher now waits in the background and closes after you quit SCUM."
+  "size": 46290264,
+  "sha256": "35f0a2878f5b05d46c61cc9065129a301365c6cbbab4740233ca8bef6e86f6a9",
+  "notes": "Removes outdated pak files (Z4Bridge.pak) left in ~mods by earlier launcher versions."
 }

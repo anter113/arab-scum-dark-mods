@@ -1,17 +1,21 @@
 {
   "schema": 1,
-  "generated": "2026-11-16T12:37:03Z",
+  "generated": "2026-11-16T16:01:49Z",
   "base_url": "https://github.com/anter113/arab-scum-dark-mods/releases/download/mods",
   "items": [
     {
-      "path": "ArabDarkScumMod.pak",
-      "size": 96931232,
-      "sha": "a4c1e708f7236c3357d29895b84861fe705b1c77e54371d12cc86f37514119c7"
+      "path": "ArabDarkScumMap.pak",
+      "size": 142823271,
+      "sha": "f24e224ede3e65d9bac0bb28e64a5170fefe8f020a0d2bdceef9e83c7d43e892"
     },
     {
-      "path": "Z4Bridge.pak",
-      "size": 9015460,
-      "sha": "b1b25ef6cc38d5934187acc2b139fb8075d7696da5809a06c4772af280be5bb3"
+      "path": "ArabDarkScumMod.pak",
+      "size": 96931230,
+      "sha": "8afb54960f5be0077a9cc9befc0e6f0a649a9948a285e102760ae39634d50778"
     }
+  ],
+  "obsolete": [
+    "Z4Bridge.pak",
+    "pakchunk900-MyMapMod_P.pak"
   ]
 }
