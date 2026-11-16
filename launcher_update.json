@@ -1,7 +1,7 @@
 {
-  "version": "0.2.4",
+  "version": "0.2.5",
   "url": "https://github.com/anter113/arab-scum-dark-mods/releases/download/mods/ArabScumDark.exe",
-  "size": 46289533,
-  "sha256": "13f16be819104844a35097fd262b7d0617de6226a107623372e5a270a14e41b7",
-  "notes": "Background music removed"
+  "size": 46289249,
+  "sha256": "d8023946d565612cd46a59fcfe36e812c83d902878d81cf8f8ecb9e560e3d834",
+  "notes": "Fixed the 'Failed to remove temporary directory' warning on game start. Launcher now waits in the background and closes after you quit SCUM."
 }
